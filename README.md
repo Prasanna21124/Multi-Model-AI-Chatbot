@@ -18,3 +18,8 @@ Multi-Model-AI-Chatbot/
 │-- .gitignore 
 │-- app.py 
 │-- README.md 
+
+## Create a Virtual Environment(recommended)
+python -m venv venv
+source venv/bin/activate   # On macOS/Linux
+venv\Scripts\activate # On windows
