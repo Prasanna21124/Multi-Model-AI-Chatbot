@@ -9,8 +9,11 @@ An interactive AI chatbot using OpenAI, Google Gemini, and Groq models with supp
 - Session-based chat history
 - Clean UI with selectable input types
 
-## Chatbot UI
-![Chatbot Screenshot](screenshots/chatbot_ui.png)
+## Tech Stack
+- Frontend and Framework: Streamlit
+- Language: Python
+- APIs:<br> OpenAI GPT-4 and Whisper-1<br> Google Gemini<br> Groq LLaMA
+- Other tools: Pillow<br> python-dotenv
 
 ## Project Structure
 Multi-Model-AI-Chatbot/<br>
@@ -23,3 +26,6 @@ Multi-Model-AI-Chatbot/<br>
 -- python -m venv venv<br>
 -- source venv/bin/activate   # On macOS/Linux<br>
 -- venv\Scripts\activate # On windows
+
+## Chatbot UI
+![Chatbot Screenshot](screenshots/chatbot_ui.png)
