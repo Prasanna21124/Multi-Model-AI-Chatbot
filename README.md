@@ -8,3 +8,5 @@ An interactive AI chatbot using OpenAI, Google Gemini, and Groq models with supp
 - Generate images using DALL-E 3
 - Session-based chat history
 - Clean UI with selectable input types
+
+![Chatbot Screenshot](screenshots/chatbot_ui.png)
