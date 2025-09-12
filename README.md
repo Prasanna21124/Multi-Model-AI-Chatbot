@@ -14,7 +14,7 @@ An interactive AI chatbot using OpenAI, Google Gemini, and Groq models with supp
 
 ## Project Structure
 Multi-Model-AI-Chatbot/
-│-- .env # Store API keys here
-│-- .gitignore # Ignores .env file
-│-- app.py # Main Streamlit application
-│-- README.md # Project documentation
+│-- .env 
+│-- .gitignore 
+│-- app.py 
+│-- README.md 
