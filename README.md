@@ -13,13 +13,13 @@ An interactive AI chatbot using OpenAI, Google Gemini, and Groq models with supp
 ![Chatbot Screenshot](screenshots/chatbot_ui.png)
 
 ## Project Structure
-Multi-Model-AI-Chatbot/
-.env<br>
-.gitignore<br>
-app.py<br>
-README.md 
+Multi-Model-AI-Chatbot/<br>
+|-- .env<br>
+|-- .gitignore<br>
+|-- app.py<br>
+|-- README.md 
 
-## Create a Virtual Environment(recommended)
-- python -m venv venv
-- source venv/bin/activate   # On macOS/Linux
-- venv\Scripts\activate # On windows
+## Create a Virtual Environment(recommended)<br>
+-- python -m venv venv<br>
+-- source venv/bin/activate   # On macOS/Linux<br>
+-- venv\Scripts\activate # On windows
