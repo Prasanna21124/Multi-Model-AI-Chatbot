@@ -150,7 +150,7 @@ if st.button("Ask"):
             #GEMINI
             elif model_choice == "Gemini":
                 with st.spinner("Thinking..."):
-                    if uploaded_audio is not None:
+                    if user_input_img.strip() or uploaded_audio is not None:
                         raise Exception("Gemini does not support audio input. Please provide text or an image.")
                     elif uploaded_image:
                         st.session_state.chat_history.append({"role": "user", "content": user_input})
@@ -185,7 +185,7 @@ if st.button("Ask"):
             #GROQ
             elif model_choice == "Groq":
                 with st.spinner("Thinking..."):
-                    if uploaded_audio is not None or uploaded_image is not None:
+                    if user_input_img.strip() or uploaded_audio is not None or uploaded_image is not None:
                         raise Exception("Groq does not support audio and image input. Please provide text only.")
                     
                     st.session_state.chat_history.append({"role": "user", "content": user_input})
