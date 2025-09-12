@@ -42,5 +42,6 @@ streamlit run app.py
 - Choose a Model<br> Select from OpenAI (GPT-4), Gemini, or Groq in the sidebar.
 - Choose Input Type<br> Text: Type a question and get an AI response<br> Upload Image: Upload an image and ask about it<br> Upload Audio: Upload audio and get transcribed text<br> Generate Image: Provide a text prompt and generate an image
 
-## Chatbot UI
+## Chatbot UI<br>
+Here’s a quick look at the chatbot in action:<br>
 ![Chatbot Screenshot](screenshots/chatbot_ui.png)
