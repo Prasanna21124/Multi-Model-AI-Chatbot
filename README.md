@@ -9,4 +9,5 @@ An interactive AI chatbot using OpenAI, Google Gemini, and Groq models with supp
 - Session-based chat history
 - Clean UI with selectable input types
 
+## Chatbot UI
 ![Chatbot Screenshot](screenshots/chatbot_ui.png)
