@@ -13,7 +13,7 @@ An interactive AI chatbot using OpenAI, Google Gemini, and Groq models with supp
 - Frontend and Framework: Streamlit
 - Language: Python
 - APIs:<br> OpenAI GPT-4 and Whisper-1<br> Google Gemini<br> Groq LLaMA
-- Other tools: Pillow<br> python-dotenv
+- Other tools:<br> Pillow<br> python-dotenv
 
 ## Project Structure
 Multi-Model-AI-Chatbot/<br>
