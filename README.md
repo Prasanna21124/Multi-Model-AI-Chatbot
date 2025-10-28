@@ -21,6 +21,7 @@ Multi-Model-AI-Chatbot/<br>
 |-- .gitignore<br>
 |-- app.py<br>
 |-- README.md 
+|-- requirements.txt
 
 ## Create a Virtual Environment(recommended)<br>
 -- python -m venv venv<br>
